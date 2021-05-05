@@ -12,6 +12,11 @@ Currently under development 🤭 🎃
 ## Grammar Flow:
 ![Image](./extern/banz-grammar.png)
 
+## Tokens
+![Tokens](./extern/banz-tokens.png)
+
+## Example Tokenization
+![Example](./extern/banz-example.png)
 
 ## Examples:
 
