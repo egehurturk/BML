@@ -10,7 +10,7 @@ Currently under development 🤭 🎃
 
 
 ## Grammar Flow:
-![Image](extern/banz\ prog\ lang-Grammar.png)
+![Image](./extern/banz-grammar.png)
 
 
 ## Examples:
