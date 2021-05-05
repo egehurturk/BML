@@ -8,6 +8,11 @@ Currently under development 🤭 🎃
 ```
 ---
 
+
+## Grammar Flow:
+![Image](extern/banz\ prog\ lang-Grammar.png)
+
+
 ## Examples:
 
 ```banz
